@@ -5,4 +5,5 @@ Display the content of
 Display the last 10 lines of
 Display the first 10 lines of
 Write a script that displays the third line of the file
-Write a shell script that creates a file named exactly
+Write a shell script that creates a file named exactl
+Write a script that writes into the file 
